@@ -1,0 +1,11 @@
+asgiref==3.7.2
+cffi==1.15.1
+cryptography==41.0.2
+Django==4.2.3
+mysqlclient==2.2.0
+pyasn1==0.5.0
+pycparser==2.21
+PyJWT==2.1.0
+rsa==4.9
+sqlparse==0.4.4
+tzdata==2023.3
